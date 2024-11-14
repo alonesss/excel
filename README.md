@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+主要代码保存在src/components/ExcelViewer.vue下
+本项目是基于xlsx
